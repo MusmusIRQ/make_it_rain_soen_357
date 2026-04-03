@@ -26,6 +26,13 @@ Vite normally serves the project at:
 http://localhost:5173
 ```
 
+Demo login for the current prototype:
+
+```text
+Email: student@concordia.ca
+Password: soen357
+```
+
 ## Mock Data
 
 The current prototype is based on hardcode apartment data stored. This is done to be able to prototype well the features of the application using hardcode backend.

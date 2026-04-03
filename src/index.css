@@ -120,6 +120,13 @@ button {
   letter-spacing: -0.03em;
 }
 
+.login-copy h1 {
+  margin: 0;
+  font-size: clamp(3.2rem, 7vw, 5.8rem);
+  line-height: 0.92;
+  letter-spacing: -0.05em;
+}
+
 .login-copy p,
 .dashboard-hero p,
 .section-heading p,

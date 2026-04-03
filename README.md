@@ -26,20 +26,6 @@ Vite normally serves the project at:
 http://localhost:5173
 ```
 
-## Build for Production
-
-Create an optimized production build with:
-
-```bash
-npm run build
-```
-
-Preview the production build locally with:
-
-```bash
-npm run preview
-```
-
 ## Mock Data
 
 The current prototype is based on hardcode apartment data stored. This is done to be able to prototype well the features of the application using hardcode backend.
